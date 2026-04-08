@@ -1,72 +1,70 @@
 # Hi, I'm Eniyavan 👋
 
-## 🚀 Focus
-
-Control Systems | ROS2 | Autonomous Systems
+**Control Systems Engineer | ROS2 | Autonomous Systems**
 
 ---
 
-## 🧠 System Thinking
+## 🧠 Engineering Focus
 
-I design control systems as complete pipelines:
+Designing and implementing **closed-loop control systems** for dynamic systems with emphasis on:
 
-* Sensor/Input → Processing → Control Algorithm → Actuation
-* Focus on stability, feedback, and real-time performance
-* Bridging simulation (MATLAB/ROS2) with real-world systems
+- Stability and transient response  
+- Disturbance rejection  
+- Real-time system performance  
 
----
+End-to-end system pipeline:
 
-## 🔧 What I Build
-
-* Flight control systems
-* Robotics pipelines using ROS2
-* Simulation + real-world integration
+**Sensing → State Estimation → Control → Actuation**
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Selected Projects
 
-### 🚁 [Precision Landing System (ROS2)](https://github.com/eniyavanthangabharathi-a11y/precision_landing_ros2)
-
-Autonomous drone landing using ArUco markers and visual feedback control
-
-**Pipeline:**
-Camera → ArUco Detection → Pose Estimation → Controller → Landing Command
-
-**Status:**
-🚧 In progress – building detection + control integration
+### 🚁 UAV Roll Attitude Control
+- Designed and compared controllers: **PID, State Feedback, LQR**
+- Evaluated system performance based on stability, response speed, and robustness
+- Analyzed disturbance rejection and control effort trade-offs
+- Built structured simulations for control validation
 
 ---
 
-### ⚖️ [Inverted Pendulum (ROS2)](https://github.com/eniyavanthangabharathi-a11y/inverted-pendulum-ros2)
+### 🎯 Precision Landing System (ROS2)
+- Developing an autonomous landing system using **visual feedback (ArUco markers)**
+- Implementing **pose estimation + control loop integration**
+- Building ROS2-based pipeline for real-time perception and control  
 
-Real-time stabilization using PID control
+**Pipeline:**  
+Camera → Detection → Pose Estimation → Controller → Landing Command  
 
-**Pipeline:**
-Pendulum Simulation → Angle → PID Controller → PWM Output → Motor
-
-**Status:**
-✅ Simulation complete | 🔧 tuning and improvements ongoing
-
----
-
-## 🛠 Tech Stack
-
-* ROS2 (Humble)
-* Python
-* MATLAB
-* OpenCV
+**Status:** In progress (perception + control integration)
 
 ---
 
-## 🚧 Currently Working On
-
-* Precision landing system using ROS2 + OpenCV
-* Improving control tuning and real-time response
-* Integrating perception with control systems
+### ⚖️ Inverted Pendulum (ROS2)
+- Implemented **PID-based stabilization** in a ROS2 environment  
+- Designed modular node architecture for control loop execution  
+- Tuned controller for stable real-time response  
 
 ---
 
-## 📌 Goal
+## 🛠 Technical Skills
 
-To build real-world autonomous control systems for aerospace and robotics.
+- ROS2 (Humble)  
+- Python  
+- MATLAB (Control Systems Toolbox)  
+- OpenCV  
+
+---
+
+## 📈 Current Work
+
+- Improving controller tuning and performance validation  
+- Integrating perception systems with control loops  
+- Transitioning control systems from simulation to real-world applications  
+
+---
+
+## 🎯 Objective
+
+To develop **robust autonomous control systems** for aerospace and robotics,  
+with strong focus on **real-world deployment and system reliability**.
