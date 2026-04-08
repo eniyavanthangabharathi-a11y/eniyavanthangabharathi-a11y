@@ -66,5 +66,4 @@ Camera → Detection → Pose Estimation → Controller → Landing Command
 
 ## 🎯 Objective
 
-To develop **robust autonomous control systems** for aerospace and robotics,  
-with strong focus on **real-world deployment and system reliability**.
+To develop **robust autonomous control systems** for aerospace and robotics, with strong focus on **real-world deployment and system reliability**.
