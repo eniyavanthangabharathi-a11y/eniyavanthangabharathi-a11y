@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Eniyavan 👋
 
-<!--
-**eniyavanthangabharathi-a11y/eniyavanthangabharathi-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Focus
 
-Here are some ideas to get you started:
+Control Systems | ROS2 | Autonomous Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Build
+
+* Flight control systems
+* Robotics pipelines using ROS2
+* Simulation + real-world integration
+
+## 🔥 Featured Projects
+
+### 🚁 Precision Landing System (ROS2)
+
+Autonomous drone landing using ArUco markers and visual feedback control
+
+### ⚖️ Inverted Pendulum (ROS2)
+
+Real-time control system using PID for stabilization
+
+## 🛠 Tech Stack
+
+* ROS2 (Humble)
+* Python
+* MATLAB
+* OpenCV
+
+## 📌 Goal
+
+To build real-world autonomous control systems for aerospace and robotics.
