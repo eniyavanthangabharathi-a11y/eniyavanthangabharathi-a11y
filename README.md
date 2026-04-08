@@ -12,13 +12,26 @@ Control Systems | ROS2 | Autonomous Systems
 
 ## 🔥 Featured Projects
 
-### 🚁 Precision Landing System (ROS2)
+### 🚁 [Precision Landing System (ROS2)](https://github.com/eniyavanthangabharathi-a11y/precision_landing_ros2)
 
 Autonomous drone landing using ArUco markers and visual feedback control
 
-### ⚖️ Inverted Pendulum (ROS2)
+**Pipeline:**
+Camera → ArUco Detection → Pose Estimation → Controller → Landing Command
 
-Real-time control system using PID for stabilization
+👉 Status: In progress (building detection + control integration)
+
+---
+
+### ⚖️ [Inverted Pendulum (ROS2)](https://github.com/eniyavanthangabharathi-a11y/inverted-pendulum-ros2)
+
+Real-time stabilization using PID control
+
+**Pipeline:**
+Pendulum Simulation → Angle → PID Controller → PWM Output → Motor
+
+👉 Status: Simulation complete, tuning ongoing
+
 
 ## 🛠 Tech Stack
 
